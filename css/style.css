@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    background-color: aquamarine;
+    display: flex;
+    column-gap: 5vw;
+    justify-content: space-around;
+   
+}
+section img{
+    width: 15vw;
+    
+}
